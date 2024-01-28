@@ -1,0 +1,89 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.modal {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.modal .modal-content {
+  height: auto;
+  width: 400px;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-top: 200px;
+}
+
+.modal .loginmodal-content {
+  height: auto;
+  width: 370px;
+  border-radius: 10px;
+  margin-top: 250px;
+}
+
+.formbutton {
+  background-color: #28a745;
+  color: white;
+}
+
+.main-heading {
+  background-color: #28a745;
+  padding: 5px;
+  margin-top: 10px;
+  border-radius: 5px;
+  margin: 0px 10px;
+}
+
+.form-group button {
+  border-radius: 5px;
+  border: none;
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.title {
+  background-color: #6c757d;
+  color: white;
+}
+
+button {
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #4caf50;
+  color: white;
+}
